@@ -1,0 +1,14 @@
+C:\Users\tomas\Desktop\Projekty\KalkulatorBMI\KalkulatorBMI\bin\Debug\net7.0\KalkulatorBMI.exe
+C:\Users\tomas\Desktop\Projekty\KalkulatorBMI\KalkulatorBMI\bin\Debug\net7.0\KalkulatorBMI.deps.json
+C:\Users\tomas\Desktop\Projekty\KalkulatorBMI\KalkulatorBMI\bin\Debug\net7.0\KalkulatorBMI.runtimeconfig.json
+C:\Users\tomas\Desktop\Projekty\KalkulatorBMI\KalkulatorBMI\bin\Debug\net7.0\KalkulatorBMI.dll
+C:\Users\tomas\Desktop\Projekty\KalkulatorBMI\KalkulatorBMI\bin\Debug\net7.0\KalkulatorBMI.pdb
+C:\Users\tomas\Desktop\Projekty\KalkulatorBMI\KalkulatorBMI\obj\Debug\net7.0\KalkulatorBMI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\Desktop\Projekty\KalkulatorBMI\KalkulatorBMI\obj\Debug\net7.0\KalkulatorBMI.AssemblyInfoInputs.cache
+C:\Users\tomas\Desktop\Projekty\KalkulatorBMI\KalkulatorBMI\obj\Debug\net7.0\KalkulatorBMI.AssemblyInfo.cs
+C:\Users\tomas\Desktop\Projekty\KalkulatorBMI\KalkulatorBMI\obj\Debug\net7.0\KalkulatorBMI.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\Projekty\KalkulatorBMI\KalkulatorBMI\obj\Debug\net7.0\KalkulatorBMI.dll
+C:\Users\tomas\Desktop\Projekty\KalkulatorBMI\KalkulatorBMI\obj\Debug\net7.0\refint\KalkulatorBMI.dll
+C:\Users\tomas\Desktop\Projekty\KalkulatorBMI\KalkulatorBMI\obj\Debug\net7.0\KalkulatorBMI.pdb
+C:\Users\tomas\Desktop\Projekty\KalkulatorBMI\KalkulatorBMI\obj\Debug\net7.0\KalkulatorBMI.genruntimeconfig.cache
+C:\Users\tomas\Desktop\Projekty\KalkulatorBMI\KalkulatorBMI\obj\Debug\net7.0\ref\KalkulatorBMI.dll
